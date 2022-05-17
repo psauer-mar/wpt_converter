@@ -1,0 +1,6594 @@
+format 1
+loop false
+waypoints
+{
+waypoint
+	{
+		latitude_deg 38.5888853200
+		longitude_deg -75.1610726169
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5890253357
+		longitude_deg -75.1603345041
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5891742065
+		longitude_deg -75.1602828451
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5889192757
+		longitude_deg -75.1616267354
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5889532288
+		longitude_deg -75.1621808546
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5893230772
+		longitude_deg -75.1602311860
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5889871791
+		longitude_deg -75.1627349741
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894719480
+		longitude_deg -75.1601795267
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5896208187
+		longitude_deg -75.1601278672
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5890211269
+		longitude_deg -75.1632890941
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5897696893
+		longitude_deg -75.1600762074
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5890550721
+		longitude_deg -75.1638432146
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5890890145
+		longitude_deg -75.1643973357
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5899185600
+		longitude_deg -75.1600245474
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5891229544
+		longitude_deg -75.1649514572
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5900674307
+		longitude_deg -75.1599728873
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5902163012
+		longitude_deg -75.1599212267
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5891568918
+		longitude_deg -75.1655055793
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5903651718
+		longitude_deg -75.1598695661
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5891908263
+		longitude_deg -75.1660597019
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5892247584
+		longitude_deg -75.1666138250
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5905140422
+		longitude_deg -75.1598179053
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5892586876
+		longitude_deg -75.1671679486
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5906629128
+		longitude_deg -75.1597662443
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5908117834
+		longitude_deg -75.1597145830
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5892926145
+		longitude_deg -75.1677220730
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5909606537
+		longitude_deg -75.1596629216
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5893265387
+		longitude_deg -75.1682761976
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911095242
+		longitude_deg -75.1596112599
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5893604601
+		longitude_deg -75.1688303227
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5893943790
+		longitude_deg -75.1693844484
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5912583947
+		longitude_deg -75.1595595978
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894282954
+		longitude_deg -75.1699385745
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5914072649
+		longitude_deg -75.1595079358
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5915561354
+		longitude_deg -75.1594562735
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894622089
+		longitude_deg -75.1704927012
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5917050058
+		longitude_deg -75.1594046110
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894961200
+		longitude_deg -75.1710468284
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5895300284
+		longitude_deg -75.1716009561
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5918538760
+		longitude_deg -75.1593529482
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5920027463
+		longitude_deg -75.1593012853
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5895639341
+		longitude_deg -75.1721550843
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5895978373
+		longitude_deg -75.1727092130
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5921516164
+		longitude_deg -75.1592496222
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5923004867
+		longitude_deg -75.1591979586
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5896317379
+		longitude_deg -75.1732633425
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5896656356
+		longitude_deg -75.1738174722
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5924493570
+		longitude_deg -75.1591462950
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5897210564
+		longitude_deg -75.1742582005
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5925982271
+		longitude_deg -75.1590946312
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5927470973
+		longitude_deg -75.1590429673
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5898524477
+		longitude_deg -75.1742986883
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5899838392
+		longitude_deg -75.1743391761
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5928959675
+		longitude_deg -75.1589913030
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5930448375
+		longitude_deg -75.1589396386
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5901152307
+		longitude_deg -75.1743796643
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5902466221
+		longitude_deg -75.1744201523
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5931937076
+		longitude_deg -75.1588879740
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5903780135
+		longitude_deg -75.1744606407
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5933425775
+		longitude_deg -75.1588363089
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5934914476
+		longitude_deg -75.1587846439
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5905094047
+		longitude_deg -75.1745011293
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5936403177
+		longitude_deg -75.1587329786
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5906407961
+		longitude_deg -75.1745416178
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5937891875
+		longitude_deg -75.1586813131
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5907721875
+		longitude_deg -75.1745821067
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5909035789
+		longitude_deg -75.1746225955
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5939380575
+		longitude_deg -75.1586296474
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5910349700
+		longitude_deg -75.1746630847
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5940869275
+		longitude_deg -75.1585779815
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5942357973
+		longitude_deg -75.1585263154
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911663613
+		longitude_deg -75.1747035740
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5912977526
+		longitude_deg -75.1747440632
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5943846672
+		longitude_deg -75.1584746490
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5944365082
+		longitude_deg -75.1584566570
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5970498222
+		longitude_deg -75.1494433083
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5947620916
+		longitude_deg -75.1578308592
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5945967475
+		longitude_deg -75.1584010445
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5914291439
+		longitude_deg -75.1747845528
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5945335371
+		longitude_deg -75.1584229823
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5948369494
+		longitude_deg -75.1575564504
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5915605352
+		longitude_deg -75.1748250424
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5952932234
+		longitude_deg -75.1558838046
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5916919263
+		longitude_deg -75.1748655323
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5918233175
+		longitude_deg -75.1749060223
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5957494736
+		longitude_deg -75.1542111377
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5962056998
+		longitude_deg -75.1525384494
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5919547087
+		longitude_deg -75.1749465123
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5966619021
+		longitude_deg -75.1508657400
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5920860999
+		longitude_deg -75.1749870027
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5922174910
+		longitude_deg -75.1750274930
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5971180804
+		longitude_deg -75.1491930093
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5975742350
+		longitude_deg -75.1475202573
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5923488821
+		longitude_deg -75.1750679836
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5924802732
+		longitude_deg -75.1751084744
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5979071992
+		longitude_deg -75.1464973054
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5981257320
+		longitude_deg -75.1460780453
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5926116644
+		longitude_deg -75.1751489652
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5983442633
+		longitude_deg -75.1456587826
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5927430555
+		longitude_deg -75.1751894563
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5928744464
+		longitude_deg -75.1752299473
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5985627931
+		longitude_deg -75.1452395174
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5930058375
+		longitude_deg -75.1752704387
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5987813214
+		longitude_deg -75.1448202495
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5989998482
+		longitude_deg -75.1444009792
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5931372285
+		longitude_deg -75.1753109301
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5932686196
+		longitude_deg -75.1753514217
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5992183735
+		longitude_deg -75.1439817063
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5994368974
+		longitude_deg -75.1435624309
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5934000106
+		longitude_deg -75.1753919135
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5935314014
+		longitude_deg -75.1754324053
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5996554198
+		longitude_deg -75.1431431530
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5998739406
+		longitude_deg -75.1427238725
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5936627924
+		longitude_deg -75.1754728975
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5937941834
+		longitude_deg -75.1755133895
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.6000924599
+		longitude_deg -75.1423045895
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.6003109776
+		longitude_deg -75.1418853039
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5941225888
+		longitude_deg -75.1745159277
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.6005294939
+		longitude_deg -75.1414660158
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5942839375
+		longitude_deg -75.1743985848
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5944452863
+		longitude_deg -75.1742812414
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.6007480087
+		longitude_deg -75.1410467251
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5946066350
+		longitude_deg -75.1741638974
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.6009665219
+		longitude_deg -75.1406274319
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.6011850337
+		longitude_deg -75.1402081362
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5947679833
+		longitude_deg -75.1740465530
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5949293317
+		longitude_deg -75.1739292080
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.6014035439
+		longitude_deg -75.1397888379
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.6016220526
+		longitude_deg -75.1393695370
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5950906799
+		longitude_deg -75.1738118625
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5952520280
+		longitude_deg -75.1736945164
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.6015296441
+		longitude_deg -75.1405911981
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5845894313
+		longitude_deg -75.2023011781
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5847330728
+		longitude_deg -75.2031328439
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5845870696
+		longitude_deg -75.2014861425
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5849366712
+		longitude_deg -75.2035102703
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5851402684
+		longitude_deg -75.2038876990
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5845847022
+		longitude_deg -75.2006711069
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5853045293
+		longitude_deg -75.2040373656
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5846281562
+		longitude_deg -75.2001213660
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5846975321
+		longitude_deg -75.1997217003
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5854627146
+		longitude_deg -75.2041518543
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5842682305
+		longitude_deg -75.1980378428
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5843864021
+		longitude_deg -75.1987218832
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5845780014
+		longitude_deg -75.1990297527
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5843148017
+		longitude_deg -75.1975062180
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5843442413
+		longitude_deg -75.1964114877
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5856208997
+		longitude_deg -75.2042663437
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5844504858
+		longitude_deg -75.1974904088
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5844945414
+		longitude_deg -75.1958520149
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5846448389
+		longitude_deg -75.1952925395
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5845861699
+		longitude_deg -75.1974745999
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5857790848
+		longitude_deg -75.2043808335
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5859372698
+		longitude_deg -75.2044953237
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5847218538
+		longitude_deg -75.1974587908
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5847938038
+		longitude_deg -75.1947825484
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5849348574
+		longitude_deg -75.1945668959
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5848575378
+		longitude_deg -75.1974429817
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5860954547
+		longitude_deg -75.2046098145
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5862536395
+		longitude_deg -75.2047243059
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5849932218
+		longitude_deg -75.1974271724
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5850759108
+		longitude_deg -75.1943512426
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5852169637
+		longitude_deg -75.1941355886
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5851289058
+		longitude_deg -75.1974113632
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5864118241
+		longitude_deg -75.2048387977
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5865700084
+		longitude_deg -75.2049532899
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5852645897
+		longitude_deg -75.1973955539
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5853580163
+		longitude_deg -75.1939199336
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5854990684
+		longitude_deg -75.1937042780
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5854002737
+		longitude_deg -75.1973797445
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5867242943
+		longitude_deg -75.2050452070
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5868458984
+		longitude_deg -75.2049478734
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5855359577
+		longitude_deg -75.1973639351
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5856401202
+		longitude_deg -75.1934886213
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5857799779
+		longitude_deg -75.1933174009
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5856716415
+		longitude_deg -75.1973481255
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5869675023
+		longitude_deg -75.2048505395
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5870891063
+		longitude_deg -75.2047532052
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5858073255
+		longitude_deg -75.1973323160
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5859162738
+		longitude_deg -75.1932787838
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5860525694
+		longitude_deg -75.1932401666
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5859430095
+		longitude_deg -75.1973165065
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5872107103
+		longitude_deg -75.2046558706
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5873323139
+		longitude_deg -75.2045585357
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5860786935
+		longitude_deg -75.1973006968
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5861888653
+		longitude_deg -75.1932015492
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5863251612
+		longitude_deg -75.1931629317
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5862143773
+		longitude_deg -75.1972848869
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5874539177
+		longitude_deg -75.2044612004
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5875755213
+		longitude_deg -75.2043638649
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5863500613
+		longitude_deg -75.1972690772
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5864614568
+		longitude_deg -75.1931243140
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5865977526
+		longitude_deg -75.1930856960
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5864857453
+		longitude_deg -75.1972532674
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5876971247
+		longitude_deg -75.2042665290
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5878187283
+		longitude_deg -75.2041691927
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5866214291
+		longitude_deg -75.1972374576
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5867340484
+		longitude_deg -75.1930470780
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5868703440
+		longitude_deg -75.1930084599
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5867571131
+		longitude_deg -75.1972216474
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5879403315
+		longitude_deg -75.2040718562
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5880619348
+		longitude_deg -75.2039745193
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5868927970
+		longitude_deg -75.1972058375
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5870066398
+		longitude_deg -75.1929698417
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5871429355
+		longitude_deg -75.1929312233
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5870284808
+		longitude_deg -75.1971900275
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5881835381
+		longitude_deg -75.2038771821
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5883051411
+		longitude_deg -75.2037798447
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5871641647
+		longitude_deg -75.1971742174
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5872792311
+		longitude_deg -75.1928926048
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5874155268
+		longitude_deg -75.1928539859
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5872998487
+		longitude_deg -75.1971584071
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5884267442
+		longitude_deg -75.2036825068
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5875518225
+		longitude_deg -75.1928153670
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5874355327
+		longitude_deg -75.1971425968
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5885483472
+		longitude_deg -75.2035851686
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5886699499
+		longitude_deg -75.2034878301
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5875712164
+		longitude_deg -75.1971267865
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5876881180
+		longitude_deg -75.1927767481
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5887915528
+		longitude_deg -75.2033904913
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5877069003
+		longitude_deg -75.1971109762
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5880353514
+		longitude_deg -75.1848734943
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5901191222
+		longitude_deg -75.1743596020
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5902501893
+		longitude_deg -75.1744017620
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5881699584
+		longitude_deg -75.1848977959
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5878425843
+		longitude_deg -75.1970951658
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894952212
+		longitude_deg -75.2066638506
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5903812563
+		longitude_deg -75.1744439221
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5883045656
+		longitude_deg -75.1849220977
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5879782680
+		longitude_deg -75.1970793552
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5896895582
+		longitude_deg -75.2069877413
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5905123234
+		longitude_deg -75.1744860825
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5884391728
+		longitude_deg -75.1849463994
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5881139519
+		longitude_deg -75.1970635447
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5898838943
+		longitude_deg -75.2073116340
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5906433905
+		longitude_deg -75.1745282429
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5885737800
+		longitude_deg -75.1849707015
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5882496358
+		longitude_deg -75.1970477341
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5900782295
+		longitude_deg -75.2076355282
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5902725193
+		longitude_deg -75.2079593502
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5902219719
+		longitude_deg -75.2076664034
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5883853196
+		longitude_deg -75.1970319235
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5887083869
+		longitude_deg -75.1849950036
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5907744576
+		longitude_deg -75.1745704036
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5904912638
+		longitude_deg -75.2084249533
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5903540087
+		longitude_deg -75.2076294813
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5885210035
+		longitude_deg -75.1970161127
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5888429941
+		longitude_deg -75.1850193056
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5909055247
+		longitude_deg -75.1746125643
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5910365915
+		longitude_deg -75.1746547253
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5889776013
+		longitude_deg -75.1850436079
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5886566874
+		longitude_deg -75.1970003019
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5904860199
+		longitude_deg -75.2075924108
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5906672959
+		longitude_deg -75.2086430167
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5896336743
+		longitude_deg -75.2106320993
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5888067489
+		longitude_deg -75.2134799092
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5893166681
+		longitude_deg -75.2180307497
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894740551
+		longitude_deg -75.2182167529
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5889454111
+		longitude_deg -75.2134987550
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5897550260
+		longitude_deg -75.2107105604
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5908116146
+		longitude_deg -75.2086772788
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5906180421
+		longitude_deg -75.2075554051
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5887923713
+		longitude_deg -75.1969844911
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5891122084
+		longitude_deg -75.1850679103
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911676585
+		longitude_deg -75.1746968865
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5909190450
+		longitude_deg -75.2425629784
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5904480314
+		longitude_deg -75.2392043934
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894010875
+		longitude_deg -75.2385791936
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5873107677
+		longitude_deg -75.2362152954
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5871973163
+		longitude_deg -75.2322951746
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5896309968
+		longitude_deg -75.2183987847
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5890840736
+		longitude_deg -75.2135176008
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5898763775
+		longitude_deg -75.2107890215
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5909559335
+		longitude_deg -75.2087115413
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5907500642
+		longitude_deg -75.2075183977
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5889280550
+		longitude_deg -75.1969686803
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5892468153
+		longitude_deg -75.1850922126
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5912987255
+		longitude_deg -75.1747390476
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5914297925
+		longitude_deg -75.1747812091
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5893814225
+		longitude_deg -75.1851165152
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5890637388
+		longitude_deg -75.1969528693
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5908820981
+		longitude_deg -75.2074814581
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911002524
+		longitude_deg -75.2087458036
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5899977291
+		longitude_deg -75.2108674832
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5892227360
+		longitude_deg -75.2135364465
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5897683078
+		longitude_deg -75.2184055835
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5873330463
+		longitude_deg -75.2323110190
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5874437268
+		longitude_deg -75.2361353656
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894761818
+		longitude_deg -75.2384338237
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5905687872
+		longitude_deg -75.2390862892
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5910613534
+		longitude_deg -75.2425985556
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5915608595
+		longitude_deg -75.1748233705
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5895160296
+		longitude_deg -75.1851408179
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5891994227
+		longitude_deg -75.1969370582
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5910141202
+		longitude_deg -75.2074444520
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5912445712
+		longitude_deg -75.2087800663
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5901190805
+		longitude_deg -75.2109459449
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5893613984
+		longitude_deg -75.2135552925
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5899056188
+		longitude_deg -75.2184123827
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5874687763
+		longitude_deg -75.2323268637
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5875766856
+		longitude_deg -75.2360554354
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5895512760
+		longitude_deg -75.2382884533
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5906895429
+		longitude_deg -75.2389681847
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911978084
+		longitude_deg -75.2425923890
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5916919263
+		longitude_deg -75.1748655323
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5896506367
+		longitude_deg -75.1851651204
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5893351064
+		longitude_deg -75.1969212472
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911461426
+		longitude_deg -75.2074074458
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5913888899
+		longitude_deg -75.2088143291
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5902404320
+		longitude_deg -75.2110244070
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5895000607
+		longitude_deg -75.2135741385
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5900429298
+		longitude_deg -75.2184191818
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5876045062
+		longitude_deg -75.2323427084
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5877096446
+		longitude_deg -75.2359755049
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5896263701
+		longitude_deg -75.2381430826
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5908102982
+		longitude_deg -75.2388500799
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5913212776
+		longitude_deg -75.2424936149
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5914447464
+		longitude_deg -75.2423948407
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5909310537
+		longitude_deg -75.2387319745
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5897014638
+		longitude_deg -75.2379977118
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5878426033
+		longitude_deg -75.2358955742
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5877402362
+		longitude_deg -75.2323585529
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5901802406
+		longitude_deg -75.2184259808
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5896387231
+		longitude_deg -75.2135929844
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5903617831
+		longitude_deg -75.2111028693
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5915332087
+		longitude_deg -75.2088485920
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5912781668
+		longitude_deg -75.2073704504
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894707903
+		longitude_deg -75.1969054361
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5897852436
+		longitude_deg -75.1851894232
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5918229932
+		longitude_deg -75.1749076942
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5919540601
+		longitude_deg -75.1749498561
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5899198507
+		longitude_deg -75.1852137261
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5896064741
+		longitude_deg -75.1968896249
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5914101911
+		longitude_deg -75.2073334549
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5916775275
+		longitude_deg -75.2088828551
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5904831344
+		longitude_deg -75.2111813320
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5897773855
+		longitude_deg -75.2136118306
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5903175516
+		longitude_deg -75.2184327800
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5895960200
+		longitude_deg -75.2225538596
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5920851270
+		longitude_deg -75.1749920184
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5900544578
+		longitude_deg -75.1852380290
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5897421580
+		longitude_deg -75.1968738136
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5915422151
+		longitude_deg -75.2072964594
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5918218463
+		longitude_deg -75.2089171182
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5906044857
+		longitude_deg -75.2112597947
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5899160479
+		longitude_deg -75.2136306768
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5904548626
+		longitude_deg -75.2184395792
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5897570846
+		longitude_deg -75.2224250080
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5899181493
+		longitude_deg -75.2222961558
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5905921734
+		longitude_deg -75.2184463782
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5900547101
+		longitude_deg -75.2136495230
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5907258369
+		longitude_deg -75.2113382579
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5919661649
+		longitude_deg -75.2089513816
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5916742393
+		longitude_deg -75.2072594637
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5898778416
+		longitude_deg -75.1968580023
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5901890649
+		longitude_deg -75.1852623322
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5922161939
+		longitude_deg -75.1750341806
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5923472605
+		longitude_deg -75.1750763431
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5903236717
+		longitude_deg -75.1852866352
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5900135255
+		longitude_deg -75.1968421910
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5918062635
+		longitude_deg -75.2072224679
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5921104837
+		longitude_deg -75.2089856449
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5908471880
+		longitude_deg -75.2114167212
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5901933725
+		longitude_deg -75.2136683694
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5907294844
+		longitude_deg -75.2184531775
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5901363414
+		longitude_deg -75.2218410388
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5903814303
+		longitude_deg -75.2212322912
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5908667954
+		longitude_deg -75.2184599768
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5903320349
+		longitude_deg -75.2136872159
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5909685391
+		longitude_deg -75.2114951850
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5922548024
+		longitude_deg -75.2090199086
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5919382875
+		longitude_deg -75.2071854719
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5901492093
+		longitude_deg -75.1968263796
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5904582788
+		longitude_deg -75.1853109385
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5924783274
+		longitude_deg -75.1751185058
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5926093942
+		longitude_deg -75.1751606685
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5905928858
+		longitude_deg -75.1853352420
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5902848930
+		longitude_deg -75.1968105680
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5920703116
+		longitude_deg -75.2071484758
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5923991212
+		longitude_deg -75.2090541724
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5910898902
+		longitude_deg -75.2115736488
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5904706973
+		longitude_deg -75.2137060622
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5910041063
+		longitude_deg -75.2184667759
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5906265161
+		longitude_deg -75.2206235392
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5927404610
+		longitude_deg -75.1752028315
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5907274929
+		longitude_deg -75.1853595452
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5904205768
+		longitude_deg -75.1967947565
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5922023358
+		longitude_deg -75.2071114794
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5925434397
+		longitude_deg -75.2090884362
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5912112409
+		longitude_deg -75.2116521130
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5906093595
+		longitude_deg -75.2137249088
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911414171
+		longitude_deg -75.2184735753
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5908715988
+		longitude_deg -75.2200147832
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5910982418
+		longitude_deg -75.2125376651
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5913325918
+		longitude_deg -75.2117305774
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5926877584
+		longitude_deg -75.2091227002
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5923343597
+		longitude_deg -75.2070744830
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5905562606
+		longitude_deg -75.1967789449
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5908620999
+		longitude_deg -75.1853838489
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5928715276
+		longitude_deg -75.1752449945
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5930025944
+		longitude_deg -75.1752871579
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5909967067
+		longitude_deg -75.1854081525
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5906919443
+		longitude_deg -75.1967631333
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5924663838
+		longitude_deg -75.2070374865
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5928320771
+		longitude_deg -75.2091569643
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5914539427
+		longitude_deg -75.2118090421
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5913775393
+		longitude_deg -75.2120721734
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5929490382
+		longitude_deg -75.2090326609
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5925984079
+		longitude_deg -75.2070004899
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5908276281
+		longitude_deg -75.1967473216
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911313138
+		longitude_deg -75.1854324561
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5931336611
+		longitude_deg -75.1753293211
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5932647279
+		longitude_deg -75.1753714848
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5912659208
+		longitude_deg -75.1854567600
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5909633119
+		longitude_deg -75.1967315098
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5927304318
+		longitude_deg -75.2069634931
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5930477260
+		longitude_deg -75.2088024458
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5931657677
+		longitude_deg -75.2086844064
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5928624559
+		longitude_deg -75.2069264962
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5910989957
+		longitude_deg -75.1967156980
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5914005278
+		longitude_deg -75.1854810639
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5933957946
+		longitude_deg -75.1754136486
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5932838090
+		longitude_deg -75.2085663666
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5929944800
+		longitude_deg -75.2068894992
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5912346793
+		longitude_deg -75.1966998861
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5915351346
+		longitude_deg -75.1855053678
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5935268611
+		longitude_deg -75.1754558123
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5934018504
+		longitude_deg -75.2084483267
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5931265038
+		longitude_deg -75.2068525019
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5913703631
+		longitude_deg -75.1966840742
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5916697416
+		longitude_deg -75.1855296719
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5936579277
+		longitude_deg -75.1754979764
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5937889944
+		longitude_deg -75.1755401405
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5918043485
+		longitude_deg -75.1855539759
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5915060469
+		longitude_deg -75.1966682621
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5932585278
+		longitude_deg -75.2068155046
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5935198916
+		longitude_deg -75.2083302861
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5929608737
+		longitude_deg -75.1804226398
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5919389555
+		longitude_deg -75.1855782803
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5916417305
+		longitude_deg -75.1966524501
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5933905519
+		longitude_deg -75.2067785071
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5936379327
+		longitude_deg -75.2082122452
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5937559737
+		longitude_deg -75.2080942039
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5935225757
+		longitude_deg -75.2067415095
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5918285044
+		longitude_deg -75.1969323825
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5920036603
+		longitude_deg -75.1971450658
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5936545997
+		longitude_deg -75.2067045118
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5938740145
+		longitude_deg -75.2079761622
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5939920553
+		longitude_deg -75.2078581201
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5937866236
+		longitude_deg -75.2066675140
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5921788158
+		longitude_deg -75.1973577501
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5941100960
+		longitude_deg -75.2077400776
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5939186476
+		longitude_deg -75.2066305158
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5923539709
+		longitude_deg -75.1975704354
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5925291256
+		longitude_deg -75.1977831218
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5940506713
+		longitude_deg -75.2065935177
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5942281363
+		longitude_deg -75.2076220349
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5942238136
+		longitude_deg -75.2067948200
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5941826953
+		longitude_deg -75.2065565195
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5927042799
+		longitude_deg -75.1979958091
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5928794338
+		longitude_deg -75.1982084975
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5940270831
+		longitude_deg -75.2048536634
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5930545873
+		longitude_deg -75.1984211870
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5938303571
+		longitude_deg -75.2029128790
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5936335989
+		longitude_deg -75.2009721049
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5932297404
+		longitude_deg -75.1986338775
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5934368084
+		longitude_deg -75.1990313414
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5934048932
+		longitude_deg -75.1988465691
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5890699659
+		longitude_deg -75.2050026892
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5893008833
+		longitude_deg -75.2063399614
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5896582759
+		longitude_deg -75.2096488079
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5899766897
+		longitude_deg -75.2090360568
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5902057727
+		longitude_deg -75.2089071980
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894002541
+		longitude_deg -75.2104573146
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5884070973
+		longitude_deg -75.2135691352
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5887861204
+		longitude_deg -75.2169516235
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5889850867
+		longitude_deg -75.2175087315
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5885294239
+		longitude_deg -75.2134422182
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5893548350
+		longitude_deg -75.2105996318
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5904348556
+		longitude_deg -75.2087783383
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5895123228
+		longitude_deg -75.2105536386
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5886680864
+		longitude_deg -75.2134610638
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5891592810
+		longitude_deg -75.2178447474
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5928115674
+		longitude_deg -75.2101324324
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5925533817
+		longitude_deg -75.2106292891
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5922158692
+		longitude_deg -75.2109668033
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5928629218
+		longitude_deg -75.2097216061
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5929142746
+		longitude_deg -75.2093107794
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5918783556
+		longitude_deg -75.2113043142
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911996738
+		longitude_deg -75.2136774744
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911640088
+		longitude_deg -75.2138002958
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5915839513
+		longitude_deg -75.2175482272
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5915097482
+		longitude_deg -75.2181047538
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5910253466
+		longitude_deg -75.2137814490
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911562962
+		longitude_deg -75.2133304885
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5913617546
+		longitude_deg -75.2187972587
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5914160390
+		longitude_deg -75.2184871740
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5908866842
+		longitude_deg -75.2137626021
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911129174
+		longitude_deg -75.2129835029
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5910695378
+		longitude_deg -75.2126365180
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5907480219
+		longitude_deg -75.2137437556
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5912787281
+		longitude_deg -75.2184803747
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911166784
+		longitude_deg -75.2194060229
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5873569243
+		longitude_deg -75.2226855125
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5875675949
+		longitude_deg -75.2214823919
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5878372448
+		longitude_deg -75.2207333797
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5869395596
+		longitude_deg -75.2258596548
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5870384689
+		longitude_deg -75.2260857287
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5881068897
+		longitude_deg -75.2199843618
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5871373780
+		longitude_deg -75.2263118032
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5883658184
+		longitude_deg -75.2192965212
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5872362864
+		longitude_deg -75.2265378783
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5885192425
+		longitude_deg -75.2192112864
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5873351944
+		longitude_deg -75.2267639540
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5886726664
+		longitude_deg -75.2191260513
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5874341020
+		longitude_deg -75.2269900303
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5888260904
+		longitude_deg -75.2190408158
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5889795142
+		longitude_deg -75.2189555799
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5875330091
+		longitude_deg -75.2272161072
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5876223557
+		longitude_deg -75.2274967665
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5891329381
+		longitude_deg -75.2188703437
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5876985666
+		longitude_deg -75.2278524171
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5892985133
+		longitude_deg -75.2187156972
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894758143
+		longitude_deg -75.2184940713
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5870615862
+		longitude_deg -75.2322793301
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5871778086
+		longitude_deg -75.2362952250
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5893259929
+		longitude_deg -75.2387245634
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5903272757
+		longitude_deg -75.2393224972
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5905515416
+		longitude_deg -75.2409215555
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5915682154
+		longitude_deg -75.2422960659
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5910518088
+		longitude_deg -75.2386138688
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5897765576
+		longitude_deg -75.2378523405
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5879755622
+		longitude_deg -75.2358156431
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5878759662
+		longitude_deg -75.2323743978
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894402601
+		longitude_deg -75.2234433735
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5916916843
+		longitude_deg -75.2421972908
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5911725640
+		longitude_deg -75.2384957627
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5898516511
+		longitude_deg -75.2377069689
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5881085210
+		longitude_deg -75.2357357118
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5880116962
+		longitude_deg -75.2323902426
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5895270752
+		longitude_deg -75.2237385434
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5896138897
+		longitude_deg -75.2240337140
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5881474260
+		longitude_deg -75.2324060874
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5881620015
+		longitude_deg -75.2329094845
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5883458422
+		longitude_deg -75.2320641186
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894462946
+		longitude_deg -75.2257816112
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5891886024
+		longitude_deg -75.2280437518
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5885137666
+		longitude_deg -75.2318961947
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5886816906
+		longitude_deg -75.2317282702
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5889308662
+		longitude_deg -75.2303058758
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5918151529
+		longitude_deg -75.2420985154
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5912933191
+		longitude_deg -75.2383776561
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5899267443
+		longitude_deg -75.2375615972
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5882414796
+		longitude_deg -75.2356557802
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5881914537
+		longitude_deg -75.2339269191
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5883350355
+		longitude_deg -75.2342140742
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5883744383
+		longitude_deg -75.2355758483
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5900018375
+		longitude_deg -75.2374162250
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5914140738
+		longitude_deg -75.2382595492
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5919386216
+		longitude_deg -75.2419997396
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5920620900
+		longitude_deg -75.2419009635
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5915348286
+		longitude_deg -75.2381414419
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5900769304
+		longitude_deg -75.2372708525
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5885073969
+		longitude_deg -75.2354959161
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5884786166
+		longitude_deg -75.2345012304
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5886221970
+		longitude_deg -75.2347883878
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5886403553
+		longitude_deg -75.2354159837
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5893206289
+		longitude_deg -75.2361852704
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5890556844
+		longitude_deg -75.2356553672
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5887733138
+		longitude_deg -75.2353360509
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5887657767
+		longitude_deg -75.2350755461
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5916359121
+		longitude_deg -75.2380115874
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5901520231
+		longitude_deg -75.2371254799
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5894707534
+		longitude_deg -75.2363550415
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5897156406
+		longitude_deg -75.2364016861
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5902271158
+		longitude_deg -75.2369801068
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5913229856
+		longitude_deg -75.2376345018
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5910033804
+		longitude_deg -75.2372534322
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5903022082
+		longitude_deg -75.2368347333
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5899605279
+		longitude_deg -75.2364483311
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5902054150
+		longitude_deg -75.2364949765
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5903773003
+		longitude_deg -75.2366893598
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5906837739
+		longitude_deg -75.2368723660
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5871448210
+		longitude_deg -75.2364882054
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5892508981
+		longitude_deg -75.2388699329
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5902065197
+		longitude_deg -75.2394406005
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5903502246
+		longitude_deg -75.2404652301
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5871545665
+		longitude_deg -75.2367295104
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5891758033
+		longitude_deg -75.2390153018
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5896663467
+		longitude_deg -75.2393082381
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5890123953
+		longitude_deg -75.2390607950
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5872344639
+		longitude_deg -75.2370501476
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5875338846
+		longitude_deg -75.2376190377
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5887063756
+		longitude_deg -75.2389450043
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5878333025
+		longitude_deg -75.2381879328
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5884003556
+		longitude_deg -75.2388292147
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5901489058
+		longitude_deg -75.2400089073
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5900857637
+		longitude_deg -75.2395587035
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+waypoint
+	{
+		latitude_deg 38.5899018209
+		longitude_deg -75.2394488569
+		speed_knots 2.5
+		loiterAtPoint false
+		loiterRadius_ft 10
+		loiterTimeUnlimited false
+		loiterTime_s 240
+	}
+
+}
