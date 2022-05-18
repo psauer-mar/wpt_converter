@@ -20,8 +20,6 @@ text_file = open(filename, "r")
 data = text_file.read()
 text_file.close()
 
-range_min = int(input("Input min line number:"))
-range_max = int(input("Input max line number:"))
 
 numpy_array = np.array(data.split("\n"))
 lat = []
@@ -37,14 +35,9 @@ for i in range(len(numpy_array)):
 #         print(non_decimal.sub('',numpy_array[i]))
     if '<coordinates>' in numpy_array[i]:
         # print(numpy_array[i])
-        sub_coords = []
+        sub_coords = numpy_array[i].strip().split(' ')
         sub_lat = []
         sub_lon = []
-        while not '</coordinates>' in numpy_array[i]:
-            i+=1
-            if not '</coordinates>' in numpy_array[i]:
-                sub_coords.append(numpy_array[i].strip())
-        print(sub_coords)
         for coord in sub_coords:
             stripped_coord = reg.sub('',coord)
             lat_coord = stripped_coord.split(',')[1]
